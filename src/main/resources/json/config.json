@@ -1,0 +1,6 @@
+{
+  "test": "hello",
+  "akka": {
+    "loglevel": "WARNING"
+  }
+}
